@@ -1,5 +1,8 @@
 
 # Run Java Application as a Background Process in Ubuntu OS
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
+</div>
 
 So let's start
 If You are not installed jdk on machine first install install
